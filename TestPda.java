@@ -25,7 +25,7 @@ public void testMaxA(){
 
 @Test
 public void testLooper(){
-assertEquals(11, pda1.looper()); 
+assertEquals(10, pda1.looper()); 
 }
 
 @Test
